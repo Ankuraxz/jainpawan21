@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently practicing **DevOps**
 
-- 💬 Ask me about **ReactJs, Data Structutes and Algorithms**
+- 💬 Ask me about **ReactJs, Data Structures and Algorithms**
 
 - 📫 How to reach me **jainpawan211199@gmail.com**
 
