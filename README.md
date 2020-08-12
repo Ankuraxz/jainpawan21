@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working with [Cipher Schools](https://cipherschools.com)
 
-- 🌱 I’m currently practicing **DevOps**
-
 - 💬 Ask me about **ReactJs, Data Structures and Algorithms**
 
 - 📫 How to reach me **jainpawan211199@gmail.com**
