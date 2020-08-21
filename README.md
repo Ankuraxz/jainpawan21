@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawan Jain</h1>
-<h3 align="center">Full Stack Developer | Microsoft Student Partner</h3>
+<h3 align="center">Full Stack Developer | Microsoft Learn Student Ambassador</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainpawan21&color=green&style=flat-square" alt="jainpawan21" /> </p>
 
